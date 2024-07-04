@@ -8,14 +8,12 @@ layout: homepage
 
 
 ## Research Interests
-My current research is centered on Responsible AI Agents, with a particular focus on the red-teaming and blue-teaming of autonomous driving systems. This involves assessing and enhancing the security and reliability of these systems through rigorous adversarial testing and defense strategies.
+I am currently very interested in building robust general-purpose embodied AI systems, a field that I find exceptionally exciting. Specifically, I focus on two pivotal challenges: 1) policy with self-correction: How to empower visuomotor policy learning with self-correction ability? 2) efficient policy learning: How to facilitate in-context learning for robotics, enabling the acquisition of new skills through minimal demonstrations? 
 
-- **Responsible AI**
-- **Autonomous Driving**
-- **Federated Learning** 
+- **I'm currently seeking internship opportunities in the field of embodied AI!**
 
 ## News
-
+- **[June 2024]** One paper (BadVLMDriver) is accepted by ICML 2024 TIFA workshop!
 - **[Apr. 2023]** One paper (pFedGraph) is accepted by ICML 2023!
 
 {% include_relative _includes/publications.md %}

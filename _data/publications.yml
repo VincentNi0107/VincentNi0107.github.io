@@ -3,11 +3,19 @@ main:
   - title: "Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models"
     authors: <strong>Zhenyang Ni</strong>, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
     conference_short: arxiv
-    conference: arxiv, 2024.
+    conference: Workshop, <strong>ICML</strong>, 2024.
     pdf: https://arxiv.org/pdf/2404.12916
     code: https://github.com/VincentNi0107/BadVLMDriver
     image: ./assets/img/badvlmdriver.png
     page: https://vincentni0107.github.io/BadVLMDriver 
+
+  - title: "Self-Localized Collaborative Perception"
+    authors: <strong>Zhenyang Ni</strong>, Zixing Lei, Yifan Lu, Dingju Wang, Chen Feng, Yanfeng Wang, Siheng Chen
+    conference_short: arxiv
+    conference: arxiv, 2024.
+    pdf: https://arxiv.org/pdf/2406.12712
+    code: https://github.com/VincentNi0107/CoBEVGlue
+    image: ./assets/img/cobevglue.png
 
   - title: "Personalized federated learning with inferred collaboration graphs"
     authors: Rui Ye<sup>*</sup>, <strong>Zhenyang Ni<sup>*</sup></strong>, Fangzhao Wu, Siheng Chen, Yanfeng Wang
